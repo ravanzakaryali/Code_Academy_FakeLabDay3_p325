@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\bin\Debug\netcoreapp3.1\FakeLabDay3.exe
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\bin\Debug\netcoreapp3.1\FakeLabDay3.deps.json
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\bin\Debug\netcoreapp3.1\FakeLabDay3.runtimeconfig.json
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\bin\Debug\netcoreapp3.1\FakeLabDay3.runtimeconfig.dev.json
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\bin\Debug\netcoreapp3.1\FakeLabDay3.dll
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\bin\Debug\netcoreapp3.1\FakeLabDay3.pdb
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.AssemblyInfo.cs
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.dll
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.pdb
+C:\Users\Admin\Documents\FakeLabDay3\FakeLabDay3\obj\Debug\netcoreapp3.1\FakeLabDay3.genruntimeconfig.cache
